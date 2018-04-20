@@ -1,8 +1,10 @@
 Xin chao toi la Thanh!
 Can huong dan ve github xem them tai day: 
-https://github.com/hocchudong/git-github-for-sysadmin/blob/master/README.md
 
-## Git và Github cho sysadmin
+## Git và Github cho Collaborator
+https://code.tutsplus.com/articles/team-collaboration-with-github--net-29876
+## Git và Github cho sysadmin 
+https://github.com/hocchudong/git-github-for-sysadmin/blob/master/README.md
 
 ###Mục lục
 
